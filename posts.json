@@ -1,0 +1,10 @@
+{
+  "test": {
+    "title": "Test post",
+    "content": "Hey some post content"
+  },
+  "second": {
+    "title": "Second Post",
+    "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur nobis nihil, quidem veritatis labore fugiat perferendis quo molestiae ad temporibus, harum et illum! Dignissimos doloribus perferendis quis laudantium id eveniet fuga aperiam reiciendis corrupti nam! Illo et molestiae vitae ipsum consectetur labore natus. Soluta cumque aperiam, amet excepturi quibusdam rem?"
+  }
+}
