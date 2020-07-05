@@ -20,6 +20,12 @@ function Post({ post }) {
           </Link>
         </p>
         <style jsx>{`
+          .c-post p:last-child a {
+            border: 1px solid currentColor;
+            padding: 0.2em 0.6em;
+            border-radius: 2px;
+          }
+
           h2 {
             font-size: 32px;
             letter-spacing: -0.04em;
